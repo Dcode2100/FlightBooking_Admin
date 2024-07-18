@@ -4,6 +4,7 @@
 @tailwind utilities;
 body {
   @apply leading-[normal] m-0;
+  zoom: 0.8;
 }
 *,
 ::before,
